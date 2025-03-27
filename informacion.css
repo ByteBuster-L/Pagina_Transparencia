@@ -30,6 +30,7 @@ main{
 @media screen and (max-width: 960px) {
     main{
         flex: 100%;
+        width: 100%;
     }
     main{
         height: calc(100%-3 * var(--h-footer));
